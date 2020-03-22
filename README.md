@@ -1,9 +1,9 @@
 # Shadowsocks-VPN-Wiki
-Shadowsocks-VPN教程：[Shadowsocks-VPN官网购买地址](https://portal.shadowsocks.nl/aff.php?aff=33882)、Shadowsocks-VPN购买和使用教程、客户端下载安装（Windows/PC、苹果/Mac、iPhone/iOS、安卓/Android）、Trojan + Shadowsocks + V2ray设置教程。推荐Shadowsocks这款便宜好用的翻墙梯子、科学上网、加速器工具。
+Shadowsocks-VPN教程：[Shadowsocks-VPN地址](https://portal.shadowsocks.nl/aff.php?aff=33882)、Shadowsocks-VPN购买和使用教程、客户端下载安装（Windows/PC、苹果/Mac、iPhone/iOS、安卓/Android）、Trojan + Shadowsocks + V2ray设置教程。推荐Shadowsocks这款便宜好用的翻墙梯子、科学上网、加速器工具。
 
 ## 1. Shadowsocks-VPN官网
 
-### - 请点击 [Shadowsocks-VPN官网地址](https://portal.shadowsocks.nl/aff.php?aff=33882) 了解详情
+### - 请点击 [Shadowsocks-VPN地址](https://portal.shadowsocks.nl/aff.php?aff=33882) 了解详情
 
 ![](assets/images/key.jpg)
 
