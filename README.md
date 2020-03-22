@@ -42,3 +42,12 @@ Shadowsocks-VPN教程：[Shadowsocks-VPN地址](https://portal.shadowsocks.nl/af
 ## 7. 其他
 - [Proxifier 设置教程](zh_CN/proxifier-settings.md)  
 - [设置自定义 DNS 服务器](zh_CN/dns-setup-guide.md)  
+
+
+----
+
+以下是免责声明：
+
+本项目分享的工具仅为正常外贸、新媒体、海外业务交流需要，切勿用于其他用途
+
+中国居民请自觉遵守法律法规，否则出现一切后果本项目作者概不负责
