@@ -18,6 +18,7 @@ Shadowsocks-VPN教程：[Shadowsocks-VPN地址](https://portal.shadowsocks.nl/af
 - [macOS 下 Trojan-QT5 使用教程](https://portal.shadowsocks.nl/knowledgebase/162/)  
 - [Linux 下 Trojan 命令行使用教程](https://portal.shadowsocks.nl/knowledgebase/160/)  
 - 建议使用Trojan协议，安全性更高，客户端使用更方便
+
 ![trojan客户端演示](assets/images/trojan.png)
 
 ## 4. Shadowsocks 客户端设置教程
