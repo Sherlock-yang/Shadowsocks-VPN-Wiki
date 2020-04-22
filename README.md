@@ -49,6 +49,8 @@ Shadowsocks-VPN教程：[Shadowsocks-VPN地址](https://portal.shadowsocks.nl/af
 
 ----
 
+地址： https://github.com/excellentVPN/Shadowsocks-VPN-Wiki
+
 以下是免责声明：
 
 本项目分享的工具仅为正常外贸、新媒体、海外业务交流等需要，切勿用于非法用途
