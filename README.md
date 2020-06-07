@@ -49,9 +49,9 @@ Shadowsocks-VPN教程：[Shadowsocks-VPN地址](https://portal.shadowsocks.nl/af
 
 ----
 
-地址： https://github.com/excellentVPN/Shadowsocks-VPN-Wiki
+地址： https://github.com/bestCNVPN/Shadowsocks-VPN-Wiki
 
-个人用高端梯子 地址： https://github.com/excellentVPN/tizi
+个人用高端梯子 地址： https://github.com/bestCNVPN/tizi
 
 以下是免责声明：
 
